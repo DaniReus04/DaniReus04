@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaniReus04
 - 👀 I’m interested in development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m allways studying
 - 📫 How to reach me: daniel_carvalho_amaroo@outlook.com
 
 <!---
