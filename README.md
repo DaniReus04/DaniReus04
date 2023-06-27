@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniReus04
 - 👀 I’m interested in development
-- 🌱 I’m allways studying
+- 🌱 I’m always studying
 - 📫 How to reach me: daniel_carvalho_amaroo@outlook.com
 
 <!---
