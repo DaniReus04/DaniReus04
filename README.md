@@ -2,8 +2,6 @@
 
 Frontend Engineer focused on scalable, high-performance web applications.
 
----
-
 ## About
 
 Frontend engineer working with React, Next.js and TypeScript, focused on performance, clean architecture and real-world applications.
