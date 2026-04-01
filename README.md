@@ -19,5 +19,6 @@ LinkedIn: https://www.linkedin.com/in/daniel-carvalho-70450b1b0/
 GitHub: https://github.com/DaniReus04
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer&text=Daniel%20Carvalho&fontSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 </p>
+
